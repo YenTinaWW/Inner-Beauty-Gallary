@@ -1,2 +1,3 @@
-This is a project for CFG contest.
-Project Name: Inner Beauty Gallary
+This is Next.js + Tailwind CSS Project.
+The Project is for CFG hackathon contest.
+
